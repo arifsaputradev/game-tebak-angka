@@ -1,7 +1,7 @@
 ## Cara Bermain
 
 Untuk Bermain Game Tebak Angka Akses link berikut <br>
-https://arifsptra.github.io/Game-TebakAngka/index.html
+https://arifsaputradev.github.io/game-tebak-angka/
 
 ---
 
